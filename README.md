@@ -2,8 +2,6 @@
 
 #  Quizzler
 
-A quiz app. You know that multiple choice question apps are one of the most popular types of education apps on the App Store.
-
 ## What i used
 
 
